@@ -1,0 +1,23 @@
+{
+  "name": "hapi-email-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/xo && ./node_modules/.bin/lab"
+  },
+  "author": "Marios Antonoudiou <marios@thechetshop.com>",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^10.1.0",
+    "nodemailer": "^2.7.0"
+  },
+  "devDependencies": {
+    "code": "^4.0.0",
+    "hapi": "^16.1.0",
+    "lab": "^11.2.1",
+    "nodemailer-stub-transport": "^1.1.0",
+    "nodemon": "^1.11.0",
+    "xo": "^0.17.1"install
+  }
+}install
