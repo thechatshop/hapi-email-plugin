@@ -1,6 +1,8 @@
 Hapi Email plugin
 =================
 
+[![wercker status](https://app.wercker.com/status/d9c09495421293e423d3a9a58b39db22/s/master "wercker status")](https://app.wercker.com/project/byKey/d9c09495421293e423d3a9a58b39db22)
+
 This is a Hapi.js plugin to provide configuration and access to nodemailer.
 
 Current maintainer: Marios Antonoudiou
